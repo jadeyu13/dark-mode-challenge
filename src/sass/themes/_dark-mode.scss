@@ -1,42 +1,33 @@
 .dark-mode {
-  background: #131313;
+  background: #121212;
+
+  button {
+    color: white;
+  }
 
   p {
     color: white;
     opacity: 87%;
   }
 
-  .morningscore-avatar {
-    background-color: #113248;
-    background-image: url('../img/avatar-dark.svg');
-  }
-
-  .header {
-    background: linear-gradient(60deg,#0e354f,#222426);
-  }
-
   .title {
-    color: #a4ccff;
+    color: #BB86FC;
   }
 
   .subtitle {
     color: #03DAC6;
   }
 
-  .button {
-    background-color: darken($white, 15%);
-  }
-
   .is-primary {
-    background-color: darken($blue, 15%);
-    color: $white;
+    background-color: #BB86FC;
+    color: black;
   }
 
   .is-primary:hover,
   .is-primary:focus {
-    background-color: darken($blue, 15%);
+    background-color: #BB86FC;
     opacity: 75%;
-    color: $white;
+    color: black;
   }
 
   .is-link {
@@ -68,3 +59,4 @@
     }
   }
 }
+
