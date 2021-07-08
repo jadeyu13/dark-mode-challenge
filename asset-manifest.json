@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dark-mode/static/css/main.90d65513.chunk.css",
+    "main.js": "/dark-mode/static/js/main.5e665a86.chunk.js",
+    "main.js.map": "/dark-mode/static/js/main.5e665a86.chunk.js.map",
+    "runtime-main.js": "/dark-mode/static/js/runtime-main.25b85249.js",
+    "runtime-main.js.map": "/dark-mode/static/js/runtime-main.25b85249.js.map",
+    "static/js/2.b3ef47d9.chunk.js": "/dark-mode/static/js/2.b3ef47d9.chunk.js",
+    "static/js/2.b3ef47d9.chunk.js.map": "/dark-mode/static/js/2.b3ef47d9.chunk.js.map",
+    "index.html": "/dark-mode/index.html",
+    "precache-manifest.0337f7ec2ac7508c5a3c8cb08efec9fb.js": "/dark-mode/precache-manifest.0337f7ec2ac7508c5a3c8cb08efec9fb.js",
+    "service-worker.js": "/dark-mode/service-worker.js",
+    "static/css/main.90d65513.chunk.css.map": "/dark-mode/static/css/main.90d65513.chunk.css.map",
+    "static/js/2.b3ef47d9.chunk.js.LICENSE.txt": "/dark-mode/static/js/2.b3ef47d9.chunk.js.LICENSE.txt",
+    "static/media/_main.scss": "/dark-mode/static/media/avatar.9a384b82.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b85249.js",
+    "static/js/2.b3ef47d9.chunk.js",
+    "static/css/main.90d65513.chunk.css",
+    "static/js/main.5e665a86.chunk.js"
+  ]
+}
